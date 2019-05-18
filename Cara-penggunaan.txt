@@ -1,0 +1,15 @@
+Buat database dengan nama inventaris -> import inventaris.sql
+
+login petugas / admin
+username : administrator
+password : administrator
+
+login peminjam / user
+username : userdemo
+password : userdemo
+
+login pegawai / operator 
+username : operatordemo
+password : operatordemo
+
+Copyright by Bakhrul Bila Sakhil
